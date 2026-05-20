@@ -1,4 +1,17 @@
 # ODriveHardware
+
+**!Bug !Bug !Bug**
+
+When I design my PCB project, I forked from Odrive official repository. [ODriveHardware](https://github.com/odriverobotics/ODriveHardware) 
+However, the PCB project under /v3 have some different with schmetic in /v3/v3.5docs.
+After I find too much data, and ask AI, and other opensource projects, like `oshwhub`. They all told me that use v3.5 schmetic not the one under repository root.
+Such a big oolong.
+
+***And another one thing. The schematics of version 3.6 are basically the same as those of version 3.5. Only the voltage resistance of the capacitor has been changed due to firmware adjustments.***
+
+
+---
+
 This project is all about accuratly driving brushless motors, for cheap. The aim is to make it possible to use inexpensive brushless motors in high performance robotics projects.
 
 If you want to get your hands on a board, check out [this post](https://hackaday.io/project/11583-odrive-high-performance-motor-control/log/40702-boards-and-development).
